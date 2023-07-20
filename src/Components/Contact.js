@@ -1,4 +1,6 @@
 import React from 'react'
+import contactform from '../form/contact.php';
+
 
 const Contact = () => {
   return (
@@ -7,10 +9,10 @@ const Contact = () => {
         <div className="contact-input">
           <div className="contact-input-1">
             <h2>Contact Us</h2>
-            <form action="#" method='get'>
+            <form action={contactform} method='get'>
             <div className="c-row-1">
-              <input type="text" placeholder='Enter Your name' />
-              <input type="email" placeholder='Enter Your e-mail' / >
+              <input id='name' type="text" placeholder='Enter Your name' />
+              <input id='email' type="email" placeholder='Enter Your e-mail' />
             </div>
             <div className="c-row-2">
               <input type="text" placeholder='Subject' />

@@ -12,6 +12,7 @@ import Faq from './Components/Faq';
 import Joinnews from './Components/Joinnews';
 
 import {Services} from './Components/Services';
+import Portfolio from './Components/Portfolio';
 
 
 function App() {
@@ -22,8 +23,9 @@ function App() {
       <Afterabout1/>
       <Afterabout2/>
       <Team/>
-      {/* <Faq/> */}
+      <Faq/>
       <Services/>
+      <Portfolio/>
       <Contact/>
       <Map/>
       <Joinnews/>

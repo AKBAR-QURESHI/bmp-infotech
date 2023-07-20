@@ -26,9 +26,9 @@ const Footer = () => {
                         <div class="use-services">
                             <h2>Userful Links</h2>
                             <div class="or-useful-content">
-                                <p><a href="#">Home</a></p>
-                                <p><a href="#">About us</a></p>
-                                <p><a href="#">Services</a></p>
+                                <p><a href="#home">Home</a></p>
+                                <p><a href="#about">About us</a></p>
+                                <p><a href="#services">Services</a></p>
                                 <p><a href="#">Terms of service</a></p>
                                 <p><a href="#">Privacy policy</a></p>
                             </div>
@@ -38,10 +38,10 @@ const Footer = () => {
                             <div class="or-social-net-content">
                                 <p>Join our social network and connect with like-minded individuals who share your interests and passions.</p>
                                 <div class="s-icons">
-                                    <li> <a href=""><img src={facebook} alt="" /></a></li>
-                                    <li> <a href=""><img src={instagram} alt="" /></a></li>
-                                    <li> <a href=""><img src={linkedin} alt="" /></a></li>
-                                    <li> <a href=""><img src={twitter} alt="" /></a></li>
+                                    <li> <a href="https://www.facebook.com/profile.php?id=100094465759566&mibextid=ZbWKwL"><img src={facebook} alt="" /></a></li>
+                                    <li> <a href="https://instagram.com/bmpinfotech?igshid=MzNlNGNkZWQ4Mg=="><img src={instagram} alt="" /></a></li>
+                                    <li> <a href="https://www.linkedin.com/company/bmp-infotech-group"><img src={linkedin} alt="" /></a></li>
+                                    <li> <a href="https://twitter.com/Bmp_Infotech?t=lrd8X0E03c1MfWxoQ7s23w&s=09"><img src={twitter} alt="" /></a></li>
                                 </div>
                             </div>
                         </div>

@@ -25,6 +25,7 @@ const Header = () => {
                 <div className='navbar-items-1 active-home'><a href="#home">Home</a></div>
                 <div className='navbar-items-2'><a href="#about">About</a></div>
                 <div className='navbar-items-3'><a href="#services">Services</a></div>
+                <div className='navbar-items-3'><a href="#portfolio">Portfolio</a></div>
                 <div className='navbar-items-4'><a href="#team">Team</a></div>
                 <div className='tech-menu'>Technical support
                   <div className='sub-tech-menu'>
@@ -61,9 +62,8 @@ const Header = () => {
               <li><a href="#home">Home</a></li>
               <li><a href='#about'>About</a></li>
               <li><a href="#services">services</a></li>
-              <li><a href="#contact">Portfolio</a></li>
-              <li><a href="">Team</a></li>
-              <li><a href="">Technical support</a></li>
+              <li><a href="#portfolio">Portfolio</a></li>
+              <li><a href="#team">Team</a></li>
               <li><a href="#contact">Contact-Us</a></li>
             </ul>
           </div>

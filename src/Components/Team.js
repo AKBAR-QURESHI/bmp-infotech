@@ -25,10 +25,10 @@ const Team = () => {
                             </div>
                             <div className='about-founder-icons'>
                                 <ul>
-                                    <li> <a href=""><img src={twitter} alt="" /></a></li>
-                                    <li> <a href=""><img src={facebook} alt="" /></a></li>
-                                    <li> <a href=""><img src={instagram} alt="" /></a></li>
-                                    <li> <a href=""><img src={linkedin} alt="" /></a></li>
+                                <li> <a href="https://twitter.com/Bmp_Infotech?t=lrd8X0E03c1MfWxoQ7s23w&s=09"><img src={twitter} alt="" /></a></li>
+                                <li> <a href="https://www.facebook.com/profile.php?id=100094465759566&mibextid=ZbWKwL"><img src={facebook} alt="" /></a></li>
+                                <li> <a href="https://instagram.com/bmpinfotech?igshid=MzNlNGNkZWQ4Mg=="><img src={instagram} alt="" /></a></li>
+                                <li> <a href="https://www.linkedin.com/company/bmp-infotech-group"><img src={linkedin} alt="" /></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -43,10 +43,10 @@ const Team = () => {
                             </div>
                             <div className='about-founder-icons'>
                                 <ul>
-                                    <li> <a href=""><img src={twitter} alt="" /></a></li>
-                                    <li> <a href=""><img src={facebook} alt="" /></a></li>
-                                    <li> <a href=""><img src={instagram} alt="" /></a></li>
-                                    <li> <a href=""><img src={linkedin} alt="" /></a></li>
+                                <li> <a href="https://twitter.com/Bmp_Infotech?t=lrd8X0E03c1MfWxoQ7s23w&s=09"><img src={twitter} alt="" /></a></li>
+                                <li> <a href="https://www.facebook.com/profile.php?id=100094465759566&mibextid=ZbWKwL"><img src={facebook} alt="" /></a></li>
+                                <li> <a href="https://instagram.com/bmpinfotech?igshid=MzNlNGNkZWQ4Mg=="><img src={instagram} alt="" /></a></li>
+                                <li> <a href="https://www.linkedin.com/company/bmp-infotech-group"><img src={linkedin} alt="" /></a></li>
                                 </ul>
                             </div>
                         </div>
